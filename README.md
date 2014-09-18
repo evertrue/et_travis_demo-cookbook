@@ -1,6 +1,6 @@
 # et_travis_demo-cookbook
 
-TODO: Enter the cookbook description here.
+A Travis Demonstration Cookbook
 
 ## Supported Platforms
 
